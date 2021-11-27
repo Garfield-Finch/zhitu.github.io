@@ -1,10 +1,9 @@
-## Zhi Tu
+## Welcome to Zhi Tu's Homepage
 
-You can use the [editor on GitHub](https://github.com/Garfield-Finch/zhitu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Master of Science in Computer Science at University of Southern California
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+; ![Image](src)
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
