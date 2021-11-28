@@ -115,8 +115,13 @@ projects:
 
 experiences:
     - role: Teaching Assistant
-      time: 2021 Fall - Present
+      time: Sep. 2021 - Present
       company: University of Southern California
+      details: |
+
+    - role: Research Assistant
+      time: Sep. 2020 - Jun. 2021
+      company: ShanghaiTech University
       details: |
 
     - role: Teaching Assistant
@@ -135,7 +140,7 @@ skills:
         level: 98%
 
       - name: C/C++
-        level: 95%
+        level: 90%
 
       - name: MATLAB
         level: 95%
@@ -144,7 +149,7 @@ skills:
         level: 85%
 
       - name: Linux Shell
-        level: 85%
+        level: 90%
 
 
 footer: >
