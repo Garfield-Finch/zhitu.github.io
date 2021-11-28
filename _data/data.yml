@@ -48,12 +48,12 @@ career-profile:
       
       He is graduating in summer 2022 and is looking for a Ph.D. position. His research interests are in Computer Vision and Machine Learning.
 education:
-    - degree: MSc in Computer Science
+    - degree: Master of Science in Computer Science
       university: University of Southern California
       time: 2020 - present
       details: |
 
-    - degree: BSc in Computer Science and Technology
+    - degree: Bachelor of Engineering in Computer Science and Technology
       university: ShanghaiTech University
       time: 2016 - 2020
       details: |
@@ -87,32 +87,31 @@ publications:
         link: "https://ieeexplore.ieee.org/abstract/document/8513176/"
         authors: Zhi Tu, Boshi Wang, Tingyang Duan and Fei Gao
         conference: IEEE Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC) 2018
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects or open source libraries in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projects
+    intro: >
 
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    assignments:
+      - title: Motion Planning for a 6-DOF robot
+        link: "#"
+        tagline: "Course Project for CSCI 545 Robotics at USC"
 
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: House Price Prediction
+        link: "#"
+        tagline: "Course Project for CSCI 567 Machine Learning at USC"
 
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: First-Order Logic Resolution
+        link: "#"
+        tagline: "Course Project for CSCI 561 Foundations of Artificial Intelligence at USC"
+
+      - title: Light Field Renderer
+        link: "#"
+        tagline: "Course Project for CS276  Computational Photography (Master Level Course) at ShanghaiTech"
+
+      - title: Construct 3D Model of a Human Face from 2D Images
+        link: "#"
+        tagline: "Course Project for CS172 Computer Vision at ShanghaiTech"
 
 experiences:
     - role: Teaching Assistant
