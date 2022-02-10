@@ -141,6 +141,9 @@ skills:
 
       - name: C/C++
         level: 90%
+      
+      - name: Java
+        level: 75%
 
       - name: MATLAB
         level: 95%
